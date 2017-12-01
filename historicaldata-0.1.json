@@ -1,0 +1,26 @@
+ data = [
+     {
+          "time": 1920,
+          "title": "Nina Bobardi",
+          "text": "link",
+          "image": "url('images/1.jpeg')"
+     },
+     {
+          "time": 1940,
+          "title": "Sebastiao Salgado",
+          "text": "link2",
+          "image": "url('images/2.jpeg')"
+     },
+     {
+          "time": 1960,
+          "title": "Sebastiao Salgado",
+          "text": "link2",
+          "image": "url('images/1.jpeg')"
+     },
+     {
+          "time": 1980,
+          "title": "Sebastiao Salgado",
+          "text": "link2",
+          "image": "url('images/2.jpeg')"
+     }
+]

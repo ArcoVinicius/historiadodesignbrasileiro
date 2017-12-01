@@ -1,0 +1,123 @@
+ data = [{
+          "time": 1950,
+          "title": "Cadeira FDC1",
+          "text": "Flávio de Carvalho - Feita em aço com acabamento laqueado e couro vegetal, a FDC1 remete a uma máscara tribal e foi criada pelo designer brasileiro para mobiliar a sua residência e principal projeto arquitetônico da sua carreira, a Fazenda Capuava.",
+          "image": "url('images/1 - Cadeira FDC1 (1950) - Flavio de Carvalho.jpg')"
+     },
+     {
+          "time": 1951,
+          "title": "Cadeira Bowl",
+          "text": "Lina Bo Bardi - A cadeira Bowl, criada em 1951, é invenção da arquiteta e designer Achillina (Lina) Bo Bardi. Desde que foi lançada, a cadeira conquistou admiradores pelo seu visual diferenciado e pela capacidade de que a mesma se adapte ao corpo humano.",
+          "image": "url('images/2 - Cadeira Bowl (1951) - Lina Bo Bardi.png')"
+     },
+     {
+          "time": 1954,
+          "title": "Banco Mocho",
+          "text": "Sérgio Rodrigues - Foi a primeira peça importante desenhada por Sérgio Rodrigues, que se tornaria um dos mais importantes em todo Brasil. Ele se inspirou em uma mulher do interior tirando leite da vaca para esculpir o Mocho em madeira maciça.",
+          "image": "url('images/3 - Banco Mocho (1954) - Sergio Rodrigues.jpg')"
+     },
+     {
+          "time": 1957,
+          "title": "Cadeira Paulistano",
+          "text": "Paulo Mendes da Rocha - Parte permanente do acervo do Museu de Arte Moderna de Nova York, a criação de Paulo Mendes da Rocha é simples, elegante e com um conforto incrível",
+          "image": "url('images/4 - Cadeira Paulistano (1957) - Paulo Mendes da Rocha.jpg')"
+     },
+     {
+          "time": 1957,
+          "title": "Poltrona Mole",
+          "text": "Sérgio Rodrigues - A poltrona Mole é ícone do nosso mobiliário e até hoje é desejada pelos amantes da decoração. A criação do móvel aconteceu em 1957 por encomenda do fotografo Otto Stupakoff, que pediu a Sergio Rodrigues que criasse um sofá ‘esparramado’ para o seu estúdio. ",
+          "image": "url('images/5 - Poltrona Mole (1957) - Sergio Rodrigues.jpg')"
+     },
+     {
+          "time": 1960,
+          "title": "Cadeira Rio",
+          "text": "Bernardo Fuigueiredo - A peça, leve e arejada, revela aspectos tropicais característicos de um dos estados mais bonitos e importantes do país. Composta de materiais bem brasileiros, como a madeira nobre e a palhinha no encosto e no assento, a Poltrona Rio é símbolo não apenas do design, mas da arte e da cultura nacionais.",
+          "image": "url('images/6 - Cadeira Rio 1960- Bernardo Fuigueiredo.jpg')"
+     },
+     {
+          "time": 1972,
+          "title": "Poltrona Peg Leve",
+          "text": "Michel Arnoult - A ideia, com a Peg Leve, era criar um móvel em kit, fácil de montar e desmontar, que fosse entregue em uma caixa e pronto para levar do local de venda até a casa do cliente. A Peg Leve é bastante elegante feita madeira nobre e maciça, com detalhes caprichosos em couro.",
+          "image": "url('images/7 - Poltrona Peg Leve (1972) - Michel Arnoult.jpg')"
+     },
+     {
+          "time": 1982,
+          "title": "Cadeira São Paulo",
+          "text": "Carlos Mota - A Cadeira São Paulo é feita com um design simples e básico: um banquinho encontra um assento espetado. Por suas linhas simples e simpatia, a peça rapidamente caiu no gosto popular e se transformou em uma referência do design brasileiro.",
+          "image": "url('images/8 - Cadeira Sao Paulo (1982) - Carlos Mota.png')"
+     },
+     {
+          "time": 1993,
+          "title": "Poltrona Vermelha",
+          "text": "Irmãos Campana - Talvez o móvel mais conhecido dos Campana, a cadeira Vermelha nasceu de um 'emaranhado de cordas'. Desenvolvida em 1993, passou a ser comercializada pela italiana Edra em 1998. A estrutura de tubos de alumínio sustenta o trançado manual dos cordões de algodão.A cadeira foi responsável pela projeção internacional dos Campana e é o primeiro projeto dos irmãos a ser produzido industrialmente",
+          "image": "url('images/9 - Cadeira Vermelha 1993 - Irmaos Campana.jpg')"
+     },
+     {
+          "time": 2008,
+          "title": "Poltrona Pantosh",
+          "text": "Lattoog - A poltrona “Pantosh” nasce da fusão de duas peças: A cadeira Panton do arquiteto dinamarquês Verner Panton com a Poltrona Willow, do arquiteto escocês Charles Rennie Mackintosh. Em sintonia com o conceito de “antropofagia cultural”, lançado por Oswald de Andrade em 1928 – a idéia de devorar a cultura colonizadora e transfomá-la em cultura brasileira e revolucionária, a poltrona Pantosh apresenta referências fortes porém sutis às raízes e cultura brasileira: Miscigenação, sincretismo e “viralatismo”.",
+          "image": "url('images/10 - Cadeira Pantosh 2008 - Lattoog.jpg')"
+     },
+     {
+          "time": 1953,
+          "title": "Sardinhas Coqueiro",
+          "text": "Alexandre Wollner - O projeto é de 1958 e Wollner aplicou princípios construtivos nas embalagens, popularizando a vanguarda no supermercado, assim como Lygia Pape fez com os biscoitos Piraquê. A logomarca apresenta as folhas do coqueiro feitas a partir de uma sequência de círculos seccionados.",
+          "image": "url('images/11 - Sardinhas Coqueiro 1953 -alexandre wollner.jpg')"
+     },   
+     {
+          "time": 1966,
+          "title": "Light",
+          "text": "Aloísio Magalhães - Com o mínimo de elementos - a repetição e espelhamento da letra L, formando a figura de um raio, inserido em um círculo - o desenho carrega as informações funcionais e conceituais da empresa.",
+          "image": "url('images/12 - Light 1966 - Aloisio Magalhaes.jpg')"
+     },
+     {
+          "time": 1968,
+          "title": "Tv Cultura",
+          "text": "Cauduro Martino - O conceito adotado para a elaboração do símbolo foi extraido da própria missão da empresa. Por ter como objetivo oferecer à sociedade brasileira informação de interesse público e promover o aprimoramento educativo e cultural de telespectadores e ouvintes, visando à transformação qualitativa da sociedade e público infantil, foi criado um signo dinâmico formado por elementos que lemabram uma figura humana de braços abertos e cabeça quadrada e suas variantes, que na época, serviam como sub-marcas para identificação de partes de sua programação.",
+          "image": "url('images/13 - Tv Cultura 1968 - Cauduro Martino.jpg')"
+     },
+     {
+          "time": 1973,
+          "title": "Itaú",
+          "text": "Alexandre Wollner - Criada sobre um grid divido em várias repartições de quatro partes, incluindo as letras, espaçamento e fundo, a logo do Itaú inicialmente era preta, pois Itaú significa 'pedra preta' em tupi. Mesmo sofrendo diversas alterações ao passar dos anos, muito da logo original ainda pode ser visto na atual.",
+          "image": "url('images/14 - Itau 1973 - Wollner.jpg')"
+     },
+     {
+          "time": 1986,
+          "title": "Vasp",
+          "text": "Identidade visual criada para a finada Vasp, que teve o seu manual da marca seguido rigorosamente à risca.",
+          "image": "url('images/15 - Vasp 1986 - Hugo Kovadloff.png')"
+     },
+     {
+          "time": 1986,
+          "title": "Cia das Letras",
+          "text": "link2",
+          "image": "url('images/16 - cia das letras 1986 - Joao Baptista da Costa Aguiar.jpg')"
+     },
+     {
+          "time": 1998,
+          "title": "Light",
+          "text": "link2",
+          "image": "url('images/17 - Light 1998 - Evelyn Grumach.jpg')"
+     },
+     {
+          "time": 2003,
+          "title": "Claro",
+          "text": "link2",
+          "image": "url('images/18 - CLARO - Hugo Kovadloff (gad) - 2003.png')"
+     },
+     {
+          "time": 2011,
+          "title": "Net NOW",
+          "text": "link2",
+          "image": "url('images/19 - NOW (net) 2011 - gad.jpg')"
+     },
+     {
+          "time": 2016,
+          "title": "Rio 2016",
+          "text": "link2",
+          "image": "url('images/20.png')"
+     }
+ 
+         
+];
